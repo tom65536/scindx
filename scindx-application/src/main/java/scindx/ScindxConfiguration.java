@@ -1,7 +1,7 @@
 
 package scindx;
 
-import io.dropwizard.Configuration;
+import io.dropwizard.core.Configuration;
 import javax.validation.constraints.NotEmpty;
 import com.fasterxml.jackson.annotation.JsonProperty;
 

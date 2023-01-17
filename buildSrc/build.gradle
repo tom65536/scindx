@@ -11,3 +11,7 @@ repositories {
     // Use the plugin portal to apply community plugins in convention plugins.
     gradlePluginPortal()
 }
+
+dependencies {
+    implementation "org.javamodularity:moduleplugin:1.8.12"
+}
