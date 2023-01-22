@@ -1,2 +1,0 @@
-rootProject.name = 'scindx'
-include('scindx-application', 'scindx-api', 'scindx-client')
